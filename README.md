@@ -41,11 +41,16 @@ Do you want to exit? (yes/no): yes
 
 ## Learning
 
-Through working on this project, I gained valuable insights into the following programming concepts:
+Through this project, I learned:
 
-1. String manipulation: Learned techniques for iterating through strings and manipulating individual characters.
-2. Conditional statements: Utilized if-else statements to control program flow based on user input.
-3. Function abstraction: Practiced encapsulating logic into functions to enhance code modularity and readability.
-4. Loop structures: Implemented loops for repetitive tasks, such as continuously executing code until a certain condition is met.
+1. **Security-aware Programming:** Understanding the importance of safely handling data to prevent security issues.
+
+2. **Encryption Basics:** Learning how basic encryption methods can protect sensitive information.
+
+3. **Input Validation:** Making sure user input is safe to use to prevent security vulnerabilities.
+
+4. **Code Organization:** Seeing the benefits of organizing code neatly for readability and security.
+
+5. **Cryptographic Concepts:** Getting an introduction to encryption principles like the Caesar cipher.
 
 ---
